@@ -1,0 +1,19 @@
+:root {
+    --black: #0F0F0F;
+    --blue: #011b94;
+    --white: #DDE6ED;
+    --grey: #526D82;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
