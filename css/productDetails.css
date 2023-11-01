@@ -1,0 +1,46 @@
+.item{
+    padding-top: 2rem;
+}
+
+.image{
+    flex-basis: 30%;
+}
+
+.image img{
+    width: 100%;
+}
+
+.details{
+    flex-basis: 60%;
+}
+
+.prod-name{
+    font-size: 2rem;
+}
+
+.prod-price{
+    margin-top: 0.5rem;
+    font-weight: bold;
+}
+
+.prod-desc{
+    margin-top: 0.5rem;
+}
+
+.prod-desc-title{
+    color: var(--grey);
+    font-weight: bold;
+}
+
+.prod-desc-data{
+    margin-top: 0.5rem;
+    text-align: justify;
+}
+
+.desc-action{
+    width: 25%;
+}
+
+.desc-action *{
+    margin-top: 1rem;
+}
